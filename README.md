@@ -1,37 +1,16 @@
-## Welcome to GitHub Pages
+**Transformer-3** streamlines the generation, storage, interpretation, processing and application of any kind of molecular population genetic data.
 
-You can use the [editor on GitHub](https://github.com/mbaccarani/transformer-3/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Because of its ease of use and versatility, **Transformer-3** speeds up data transformations and analyses that are otherwise burdensome, complex and prone to error, thereby allowing the researcher to concentrate in what really matters: the critical discussion of quantitative results and hypotheses.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Helping the researcher save time, **Transformer-3** permits the effective implementation of urgency in the growing number of practical applications of molecular population genetic information.
 
-### Markdown
+**Transformer-3** is suitable to speed up the statistical analysis of both co-dominant (allozyme or microsatellite) and dominant (AFLP, RAPD, RFLP) data matrices containing up to 66,000 diploid individuals distributed in a maximum of 50 populations.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Use the program only in a PC. Since **Transformer-3** runs macros, check that your macro security is set at least to medium, and also make sure that you do not have Excel add-ins in your computer, as these might interfere with some commands in **Transformer-3**.
 
-```markdown
-Syntax highlighted code block
+**Transformer-3** can be downloaded without charge, and may be distributed freely if and when (i) it does not undergo any modification, (ii) the manual and the three example files are attached without changes, and (iii) it is adequately cited in all papers and communications as follows:
 
-# Header 1
-## Header 2
-### Header 3
+> Caujapé-Castells J, Baccarani-Rosas M (2005) Transformer-3: a program for the analysis of molecular population genetic data.
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/mbaccarani/transformer-3/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Download
