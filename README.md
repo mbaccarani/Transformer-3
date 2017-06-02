@@ -21,14 +21,14 @@ Use the program only in a PC. Since **Transformer-3** runs macros, check that yo
 - [Manual](https://github.com/mbaccarani/transformer-3/files/transformer3_manual.pdf)
 
 
-### Important Note:
+#### Important Note:
 
 In some languages the combination of keys to draw an allele, to draw a phantom band or to draw a heterodimer, coincide with some of the excel menu options. To overcome this problem, the following links allow you to download a modified version of Transformer where:
 
-- To draw an allele band press       [ALT] + [1] .
-- To draw a phantom band press     [ALT] + [2] .
-- To insert an heterodimer press     [ALT] + [3] .
+- To draw an allele band press    [ALT] + [1] .
+- To draw a phantom band press    [ALT] + [2] .
+- To insert an heterodimer press  [ALT] + [3] .
 
 
-### Modified Transformer:
+#### Modified Transformer:
 
