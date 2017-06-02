@@ -14,3 +14,18 @@ Use the program only in a PC. Since **Transformer-3** runs macros, check that yo
 
 
 ### Download
+- [Transformer-3](https://github.com/mbaccarani/transformer-3/files/Transformer34.zip)
+- [Co-dominant example file (allozyme drawing)](https://github.com/mbaccarani/transformer-3/files/Transformer3b4.zip)
+- [Co-dominant example file (genotype table)](https://github.com/mbaccarani/transformer-3/files/t3_example_codominant_data.zip)
+- [Dominant example file (genotype table)](https://github.com/mbaccarani/transformer-3/filest3_example_dominant_data.zip)
+- [Manual](https://github.com/mbaccarani/transformer-3/files/transformer3_manual.zip)
+
+
+### Important Note:
+
+In some languages the combination of keys to draw an allele, to draw a phantom band or to draw a heterodimer, coincide with some of the excel menu options. To overcome this problem, the following links allow you to download a modified version of Transformer where:
+
+- To draw an allele band press    [ALT] + [1] .
+- To draw a phantom band press    [ALT] + [2] .
+- To insert an heterodimer press  [ALT] + [3] .
+
