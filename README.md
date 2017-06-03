@@ -31,4 +31,5 @@ In some languages the combination of keys to draw an allele, to draw a phantom b
 
 
 #### Modified Transformer:
-
+- [Transformer-3 (modified)](https://github.com/mbaccarani/transformer-3/files/Transformer34s.zip)
+- [Allozyme Drawing (modified)](https://github.com/mbaccarani/transformer-3/files/Transformer3b4s.zip)
