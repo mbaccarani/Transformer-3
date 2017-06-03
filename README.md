@@ -14,11 +14,11 @@ Use the program only in a PC. Since **Transformer-3** runs macros, check that yo
 
 
 ### Download
-- [Transformer-3](https://github.com/mbaccarani/transformer-3/files/Transformer34.zip)
-- [Co-dominant example file (allozyme drawing)](https://github.com/mbaccarani/transformer-3/files/Transformer3b4.zip)
-- [Co-dominant example file (genotype table)](https://github.com/mbaccarani/transformer-3/files/t3_example_codominant_data.zip)
-- [Dominant example file (genotype table)](https://github.com/mbaccarani/transformer-3/filest3_example_dominant_data.zip)
-- [Manual](https://github.com/mbaccarani/transformer-3/files/transformer3_manual.pdf)
+- [Transformer-3](https://mbaccarani.github.io/Transformer-3/files/Transformer34.zip)
+- [Co-dominant example file (allozyme drawing)](https://mbaccarani.github.io/Transformer-3/files/Transformer3b4.zip)
+- [Co-dominant example file (genotype table)](https://mbaccarani.github.io/Transformer-3/files/t3_example_codominant_data.zip)
+- [Dominant example file (genotype table)](https://mbaccarani.github.io/Transformer-3/files/t3_example_dominant_data.zip)
+- [Manual](https://mbaccarani.github.io/Transformer-3/files/transformer3_manual.pdf)
 
 
 #### Important Note:
@@ -31,5 +31,5 @@ In some languages the combination of keys to draw an allele, to draw a phantom b
 
 
 #### Modified Transformer:
-- [Transformer-3 (modified)](https://github.com/mbaccarani/transformer-3/files/Transformer34s.zip)
-- [Allozyme Drawing (modified)](https://github.com/mbaccarani/transformer-3/files/Transformer3b4s.zip)
+- [Transformer-3 (modified)](https://mbaccarani.github.io/Transformer-3/files/Transformer34s.zip)
+- [Allozyme Drawing (modified)](https://mbaccarani.github.io/Transformer-3/files/Transformer3b4s.zip)
